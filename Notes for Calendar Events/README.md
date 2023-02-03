@@ -1,6 +1,13 @@
 # Notes for Calendar Events
 
-TODO: Description.
+This workflow will do the following:
+
+1. Fetches a list of all events for today from a single calendar.
+1. For each event in this list, a new related note will be created in Obsidian, containing key details, in a folder named "Meeting Notes".
+1. The link to the Obsidian note will be appended to its related event.
+1. All new notes will be appended to the current Daily Note.
+
+Please note _(pun not intended)_: The workflow assumes there’s a current daily note.
 
 
 ## Download
@@ -18,6 +25,6 @@ This workflow is part of the [**Actions for Obsidian** Workflow Library](https:/
 
 ## Workflow history / Change log
 
-### TODO: Date
+### 2023-02-03
 
-- TODO
+- First version.

@@ -1,6 +1,8 @@
 # Sync Contacts with Notes
 
-TODO: Description.
+In this demo, we’ll sync contacts from a Apple Contacts group named "Shortcuts demo" with Obsidian.
+
+The end result will be a single note for each contact, with up-to-date contact details in the frontmatter. When the workflow is run again, it’ll find existing notes and update them, and if it finds contacts without a note, it’ll create a new one. The entries in Contacts will gain a clickable link to the Obsidian note.
 
 
 ## Download
@@ -18,6 +20,6 @@ This workflow is part of the [**Actions for Obsidian** Workflow Library](https:/
 
 ## Workflow history / Change log
 
-### TODO: Date
+### 2023-02-03
 
-- TODO
+- First version.
