@@ -5,7 +5,7 @@ TODO: Description.
 
 ## Download
 
-[Download workflow](%%name%%.shortcut?raw=1)
+[Download workflow](<%%name%%.shortcut?raw=1>)
 
 ---
 
