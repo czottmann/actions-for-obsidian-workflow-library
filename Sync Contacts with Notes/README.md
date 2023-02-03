@@ -1,10 +1,10 @@
-# TODO: Title
+# Sync Contacts with Notes
 
 TODO: Description.
 
 ## Download
 
-[Download workflow](Sync Contacts with Notes.shortcut?raw=1)
+[Download workflow `Sync Contacts with Notes.shortcut`](<Sync Contacts with Notes.shortcut?raw=1>)
 
 ---
 
