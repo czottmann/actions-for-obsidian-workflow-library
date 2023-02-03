@@ -9,6 +9,8 @@ This workflow will do the following:
 
 Please note _(pun not intended)_: The workflow assumes there’s a current daily note.
 
+[Screenshot of the workflow](<Notes for Calendar Events.png>)
+
 
 ## Download
 
