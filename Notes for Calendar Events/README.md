@@ -4,7 +4,7 @@ TODO: Description.
 
 ## Download
 
-[Download workflow](Notes for Calendar Events.shortcut?raw=1)
+[Download workflow](<Notes for Calendar Events.shortcut?raw=1>)
 
 ---
 
