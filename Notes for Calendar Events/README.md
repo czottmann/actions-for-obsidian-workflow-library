@@ -16,6 +16,8 @@ Please note _(pun not intended)_: The workflow assumes there’s a current daily
 
 [Download Apple Shortcuts workflow `Notes for Calendar Events.shortcut`](<Notes for Calendar Events.shortcut?raw=1>)
 
+Double-click the downloaded file to install the workflow in Shortcuts.
+
 ---
 
 ## Author & Copyright

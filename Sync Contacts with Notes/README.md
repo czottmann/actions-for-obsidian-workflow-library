@@ -11,6 +11,8 @@ The end result will be a single note for each contact, with up-to-date contact d
 
 [Download Apple Shortcuts workflow `Sync Contacts with Notes.shortcut`](<Sync Contacts with Notes.shortcut?raw=1>)
 
+Double-click the downloaded file to install the workflow in Shortcuts.
+
 ---
 
 ## Author & Copyright
