@@ -6,6 +6,7 @@ The end result will be a single note for each contact, with up-to-date contact d
 
 [Screenshot of the workflow](<Sync Contacts with Notes.png>)
 
+&nbsp;
 
 ## Download
 
@@ -13,7 +14,7 @@ The end result will be a single note for each contact, with up-to-date contact d
 
 Double-click the downloaded file to install the workflow in Shortcuts.
 
----
+&nbsp;
 
 ## Author & Copyright
 
@@ -21,6 +22,7 @@ This workflow is part of the [**Actions for Obsidian** Workflow Library](https:/
 
 &copy; Carlo Zottmann, https://github.com/czottmann, [MIT license](../LICENSE).
 
+&nbsp;
 
 ## Workflow history / Change log
 

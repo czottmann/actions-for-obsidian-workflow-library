@@ -11,6 +11,7 @@ Please note _(pun not intended)_: The workflow assumes there’s a current daily
 
 [Screenshot of the workflow](<Notes for Calendar Events.png>)
 
+&nbsp;
 
 ## Download
 
@@ -18,7 +19,7 @@ Please note _(pun not intended)_: The workflow assumes there’s a current daily
 
 Double-click the downloaded file to install the workflow in Shortcuts.
 
----
+&nbsp;
 
 ## Author & Copyright
 
@@ -26,6 +27,7 @@ This workflow is part of the [**Actions for Obsidian** Workflow Library](https:/
 
 &copy; Carlo Zottmann, https://github.com/czottmann, [MIT license](../LICENSE).
 
+&nbsp;
 
 ## Workflow history / Change log
 
