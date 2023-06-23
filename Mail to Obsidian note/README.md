@@ -10,11 +10,11 @@ Read more about it and watch the tutorial video: [▶️ How to email a "Note to
 
 ## Download
 
-[Download Apple Shortcuts workflow `Mail to Obsidian note.shortcut`](<Mail to Obsidian note.shortcut> "download")
+[Download Apple Shortcuts workflow `Mail to Obsidian note.shortcut`](<Mail to Obsidian note.shortcut> download="true")
 
 Double-click the downloaded file to install the workflow in Shortcuts.
 
-[Download AppleScript `Send Mail to Shortcuts.scpt`](<Send Mail to Shortcuts.scpt>?raw=1)
+[Download AppleScript `Send Mail to Shortcuts.scpt`](<Send Mail to Shortcuts.scpt?raw=1>)
 
 Installation: copy or move the downloaded `.scpt` file into the folder `~/Library/Application Scripts/com.apple.mail/`. (If you have trouble finding that directory: open a Finder window, open the menu entry "Go" → "Go to Folder…" (or press `⇧⌘G`), then paste the path `~/Library/Application Scripts/com.apple.mail/` into the following prompt, and hit Enter.)
 
