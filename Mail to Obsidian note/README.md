@@ -10,7 +10,7 @@ Read more about it and watch the tutorial video: [▶️ How to email a "Note to
 
 ## Download
 
-[Download Apple Shortcuts workflow `Mail to Obsidian note.shortcut`](<Mail to Obsidian note.shortcut> "download=true")
+[Download Apple Shortcuts workflow `Mail to Obsidian note.shortcut`](<Mail to Obsidian note.shortcut?raw=1>)
 
 Double-click the downloaded file to install the workflow in Shortcuts.
 
