@@ -2,7 +2,7 @@
 
 This helper consists of two parts: an AppleScript and a Shortcuts workflow. The AppleScript is a Mail rule that triggers the Shortcuts workflow. The Shortcuts workflow takes the email and turns it into a note in your Obsidian vault.
 
-Read more about it and watch the tutorial video: [▶️ How to email a "Note to Self" to your Obsidian vault - Actions for Obsidian: Knowledge Base](https://support.actions.work/article/97-how-to-email-a-note-to-self-to-your-obsidian-vault?preview=64949b2249ac94654ebfd052)
+Read more about it and watch the tutorial video: [▶️ How to email a "Note to Self" to your Obsidian vault - ActionsDotWork Forum](https://forum.actions.work/t/how-to-email-a-note-to-self-to-your-obsidian-vault/23)
 
 [Screenshot of the workflow](<Mail to Obsidian note.png>)
 
@@ -29,6 +29,10 @@ This workflow is part of the [**Actions for Obsidian** Workflow Library](https:/
 &nbsp;
 
 ## Workflow history / Change log
+
+### 2023-10-24
+
+- Adds link back to original message in Mail.app to the note.
 
 ### 2023-06-22
 
