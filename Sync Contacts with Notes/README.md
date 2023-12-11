@@ -26,6 +26,13 @@ This workflow is part of the [**Actions for Obsidian** Workflow Library](https:/
 
 ## Workflow history / Change log
 
+### 2023-12-11
+
+- Uses Obsidian 1.4+ file properties instead of writing YAML
+- Uses Contacts' own Shortcuts action for storing the Obsidian note URLs for contact
+- Obsidian note URLs in Contacts are stored under the label "URL" now (was: "Obsidian note"). It's a result of using Contacts' own actions.
+
+
 ### 2023-03-17
 
 - Adds support for contacts that have more than one phone number or mail address. Numbers and addresses are added to the front matter as YAML lists (`[1, 2, 3]`) now.
