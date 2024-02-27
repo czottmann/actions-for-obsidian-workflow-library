@@ -26,6 +26,10 @@ This workflow is part of the [**Actions for Obsidian** Workflow Library](https:/
 
 ## Workflow history / Change log
 
+### 2024-02-27
+
+Checks whether contact has phone or email before attempting to add them to the dictionary.
+
 ### 2023-12-11
 
 - Uses Obsidian 1.4+ file properties instead of writing YAML
