@@ -31,11 +31,16 @@ This workflow is part of the [**Actions for Obsidian** Workflow Library](https:/
 
 ## Workflow history / Change log
 
+### 2024-02-29
+
+Adjusts vault handling to work with AFO 2024.1.
+
+
 ### 2023-03-17
 
-- Fixes the mystery of the silently failing "If" block for calendar entries with an empty Notes attribute. Thanks to TK for the heads-up!
+Fixes the mystery of the silently failing "If" block for calendar entries with an empty Notes attribute. Thanks to TK for the heads-up!
 
 
 ### 2023-02-03
 
-- First version.
+First version.
