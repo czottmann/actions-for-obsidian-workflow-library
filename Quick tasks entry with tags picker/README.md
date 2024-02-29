@@ -26,7 +26,7 @@ This workflow is part of the [**Actions for Obsidian** Workflow Library](https:/
 
 ## Workflow history / Change log
 
-### 2024-02-27
+### 2024-02-29
 
 Adjusted vault handling to work with AFO 2024.1.
 
