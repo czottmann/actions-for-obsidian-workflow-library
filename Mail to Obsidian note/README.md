@@ -22,7 +22,7 @@ Installation: copy or move the downloaded `.scpt` file into the folder `~/Librar
 
 ## Author & Copyright
 
-This workflow is part of the [**Actions for Obsidian** Workflow Library](https://obsidian.actions.work/workflows).
+This workflow is part of the [**Actions for Obsidian** Workflow Library](https://actions.work/actions-for-obsidian/workflows).
 
 &copy; Carlo Zottmann, https://github.com/czottmann, [MIT license](../LICENSE).
 

@@ -18,7 +18,7 @@ Double-click the downloaded file to install the workflow in Shortcuts.
 
 ## Author & Copyright
 
-This workflow is part of the [**Actions for Obsidian** Workflow Library](https://obsidian.actions.work/workflows).
+This workflow is part of the [**Actions for Obsidian** Workflow Library](https://actions.work/actions-for-obsidian/workflows).
 
 &copy; Carlo Zottmann, https://github.com/czottmann, [MIT license](../LICENSE).
 
